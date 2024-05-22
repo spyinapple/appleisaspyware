@@ -1,6 +1,6 @@
 
 
-Hello the reader of the front page of the internet,
+Hello there fellow Homo sapiens sapiens or an indexing algorithm,
 
 I work with deep learning models from various frameworks, starting from CNTK to Caffe, TensorFlow to PyTorch. I utilize these models for everything from simple classification stuff to object detection and so on. A few days ago, I noticed *.weights files in system folders that I didn't put there.
 
